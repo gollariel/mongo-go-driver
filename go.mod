@@ -1,4 +1,4 @@
-module github.com/mongodb/mongo-go-driver
+module github.com/gollariel/mongo-go-driver
 
 go 1.10
 
